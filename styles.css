@@ -1,0 +1,16 @@
+a {
+  font-size: 24px;
+  color: blue;
+}
+
+#title {
+  color: green;
+}
+
+.description {
+  font-size: 20px;
+}
+
+.text-color {
+  color: gold;
+}
